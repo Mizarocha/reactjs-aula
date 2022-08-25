@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+## Criando um contador em REACT JS.     
+
+Mais uma teste com o Reactjs , aprimorando ainda mais meus conhecimentos no curso da Udemy: Online Courses
+
+Nesse projetinho com o Reactjs foi criado um contador onde foi aplicado o entedimento de props e component, 
+aplicando class component e trabalhando com states.     
+
+## Como funciona:     
+No contador vai pode aumenta e diminuir os valores e quando chegar ao zero vai aparecer uma mensagem "Opa chegou ao zero"!
+
+## Demonstração do resultado:      
+
+![10](https://user-images.githubusercontent.com/88461178/186740517-790fbd77-3c14-462f-aead-bba962a3f814.JPG)
+![zero](https://user-images.githubusercontent.com/88461178/186740552-a1a71fb1-5983-4405-ad77-abbdaf4799c4.JPG)
+
+
+## Autora: 
+- Artemiza Rocha
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
